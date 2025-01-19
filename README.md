@@ -1,8 +1,10 @@
+![giphy](https://github.com/user-attachments/assets/4a2bcd2c-0915-497c-acbb-5c593fdb8640)
+
 # Hey there, I'm **Arjun**! 👋
 
 ## Who am I?
 
-I'm a curious **Software Engineer** who loves turning ideas into things people can actually use. I spend my time building applications and systems that make life easier, simpler, and sometimes just a little more fun.
+I'm a junior **Software Engineer** who loves turning ideas into things people can actually use. I spend my time building applications and systems that make life easier, simpler, and sometimes just a little more fun.
 
 ## What keeps me busy?
 
@@ -29,17 +31,22 @@ Elastic Search (ELK), Redis, RabbitMQ
 
 **DevOps & Tools**: Git, Github, Docker, Kubernetes, AWS (S3, EC2, Lambda), Bash Scripting, Figma
 
-# Fun facts about me
+## Fun facts about me
 
-> I have a habit of obsessing over the tiniest details in my code.
-> I can lose track of time when I’m debugging (the best way to time travel, if you ask me).
-> I believe every problem has a solution; you just have to keep at it long enough to find it.
+* I have a habit of obsessing over the tiniest details in my code.
+* I can lose track of time when I’m debugging (the best way to time travel, if you ask me).
+* I believe every problem has a solution; you just have to keep at it long enough to find it.
+
+![ezgif-1-b274ce5398](https://github.com/user-attachments/assets/886941de-d119-444d-82bb-0c5d98d04c4c)
+
 
 ## Let’s connect
 I’d love to hear about what you’re working on or just chat about tech, learning, or anything else that’s interesting.
 
-📫 **Email**: arjunramesh163@gmail.com
-🌐 **Portfolio**: https://arjun-ramesh.vercel.app/
+📫 **Email**: arjunramesh163@gmail.com\
+
+🌐 **Portfolio**: https://arjun-ramesh.vercel.app/ \
+
 💼 **LinkedIn**: https://www.linkedin.com/in/arjunramesh22/
 
 # 📊 GitHub Stats:
