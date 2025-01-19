@@ -1,3 +1,6 @@
+
+![1693243268506](https://github.com/user-attachments/assets/76cc874c-2d3e-4f60-a081-22c715fe018a)
+
 # Hey there, I'm **_Arjun_**! 👋
 
 A **Junior Software Engineer** who loves turning ideas into things people can actually use. I spend my time building applications and systems that make life easier, simpler, and sometimes just a little more fun.
