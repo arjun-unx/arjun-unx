@@ -1,5 +1,3 @@
-![giphy](https://github.com/user-attachments/assets/4a2bcd2c-0915-497c-acbb-5c593fdb8640)
-
 # Hey there, I'm **Arjun**! 👋
 
 A junior **Software Engineer** who loves turning ideas into things people can actually use. I spend my time building applications and systems that make life easier, simpler, and sometimes just a little more fun.
@@ -15,7 +13,9 @@ A junior **Software Engineer** who loves turning ideas into things people can ac
 ![](https://github-readme-stats.vercel.app/api?username=arjun-unx&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)  ![](https://github-readme-streak-stats.herokuapp.com/?user=arjun-unx&theme=gotham&hide_border=false)
 ## Why do I code?
 
-Because it’s amazing to see a simple idea take shape and become something real. I believe in creating things that work well and make sense, not just for developers but for anyone who uses them.<br>
+Because it’s amazing to see a simple idea take shape and become something real. 
+
+I believe in creating things that work well and make sense, not just for developers but for anyone who uses them.<br>
 
 ![](https://github-profile-trophy.vercel.app/?username=arjun-unx&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
