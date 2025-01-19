@@ -12,22 +12,27 @@ A junior **Software Engineer** who loves turning ideas into things people can ac
 
 **Solving puzzles**: Coding isn’t just a job for me; it’s like solving a puzzle, and I love every minute of it.
 
+![](https://github-readme-stats.vercel.app/api?username=arjun-unx&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)  ![](https://github-readme-streak-stats.herokuapp.com/?user=arjun-unx&theme=gotham&hide_border=false)
 ## Why do I code?
 
-Because it’s amazing to see a simple idea take shape and become something real. I believe in creating things that work well and make sense, not just for developers but for anyone who uses them.
+Because it’s amazing to see a simple idea take shape and become something real. I believe in creating things that work well and make sense, not just for developers but for anyone who uses them.<br>
+
+![](https://github-profile-trophy.vercel.app/?username=arjun-unx&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ## Tools I use
 
-**Languages**: Java, Python, JavaScript, Typescript, HTML/CSS
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-unx&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
-**Frontend** Development: React.js, Redux, Angular, Angular Material, Tailwind CSS, Flutter
+* **Languages**: Java, Python, JavaScript, Typescript, HTML/CSS
 
-**Backend Development & Databases:** Node.js, Express.js, RESTful API, Mocha, MongoDB, Firebase, PostgreSQL,
-Elastic Search (ELK), Redis, RabbitMQ
+* **Frontend**: React.js, Redux, Angular, Angular Material, Tailwind CSS, Flutter
 
-**AI & ML**: Pandas, Numpy, Sckit-Learn, Scipy, Ploty, Sklearn, Keras, Tensorflow, Diffusion Models, Neural Networks, OpenCV, Deep Learning, Reinforcement Learning, Flask, Streamlit, LLM, llama
+* **Backend & Databases**: Node.js, Express.js, RESTful API, Mocha, MongoDB, Firebase, PostgreSQL, Elastic Search (ELK), Redis, RabbitMQ
 
-**DevOps & Tools**: Git, Github, Docker, Kubernetes, AWS (S3, EC2, Lambda), Bash Scripting, Figma
+* **AI & ML**: Pandas, Numpy, Sckit-Learn, Scipy, Ploty, Sklearn, Keras, Tensorflow, Diffusion Models, Neural Networks, OpenCV, Deep Learning, Reinforcement Learning, Flask, Streamlit, LLM, llama
+
+* **DevOps & Tools**: Git, Github, Docker, Kubernetes, AWS (S3, EC2, Lambda), Bash Scripting, Figma
+
 
 ## Fun facts about me
 
@@ -47,19 +52,7 @@ I’d love to hear about what you’re working on or just chat about tech, learn
 
 💼 **LinkedIn**: https://www.linkedin.com/in/arjunramesh22/
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arjun-unx&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arjun-unx&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-unx&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arjun-unx&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=arjun-unx&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight) ![](https://github-contributor-stats.vercel.app/api?username=arjun-unx&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=arjun-unx&icon=0&color=4)](https://visitcount.itsvg.in)
