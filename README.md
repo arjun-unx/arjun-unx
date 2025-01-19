@@ -34,7 +34,6 @@ DevOps & Tools: Git, Github, Docker, Kubernetes, AWS (S3, EC2, Lambda), Bash Scr
 
 ```
 
-
 ## Fun facts about me
 
 * I have a habit of obsessing over the tiniest details in my code.
