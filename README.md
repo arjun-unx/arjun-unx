@@ -1,37 +1,38 @@
-# Hey there, I'm **Arjun**! 👋
+# Hey there, I'm **_Arjun_**! 👋
 
-A junior **Software Engineer** who loves turning ideas into things people can actually use. I spend my time building applications and systems that make life easier, simpler, and sometimes just a little more fun.
+A **Junior Software Engineer** who loves turning ideas into things people can actually use. I spend my time building applications and systems that make life easier, simpler, and sometimes just a little more fun.
 
 ## What keeps me busy?
 
-**Building stuff**: Whether it’s a web app, a backend service, or a small AI project, I enjoy creating things from scratch.
+**_Building stuff_**: Whether it’s a web app, a backend service, or a small AI project, I enjoy creating things from scratch.
 
-**Learning new things**: Right now, I’m diving into Advanced Data Structures and System Design to level up my understanding of how things work under the hood.
+**_Learning new things_**: Right now, I’m diving into Advanced Data Structures and System Design to level up my understanding of how things work under the hood.
 
-**Solving puzzles**: Coding isn’t just a job for me; it’s like solving a puzzle, and I love every minute of it.
+**_Solving puzzles_**: Coding isn’t just a job for me; it’s like solving a puzzle, and I love every minute of it.
 
 ![](https://github-readme-stats.vercel.app/api?username=arjun-unx&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)  ![](https://github-readme-streak-stats.herokuapp.com/?user=arjun-unx&theme=gotham&hide_border=false)
-## Why do I code?
+## _Why do I code?_
 
-Because it’s amazing to see a simple idea take shape and become something real. 
+> Because it’s amazing to see a simple idea take shape and become something real. 
 
-I believe in creating things that work well and make sense, not just for developers but for anyone who uses them.<br>
+> I believe in creating things that work well and make sense, not just for developers but for anyone who uses them.<br>
 
-![](https://github-profile-trophy.vercel.app/?username=arjun-unx&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+> ![](https://github-profile-trophy.vercel.app/?username=arjun-unx&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-## Tools I use
-
+## Tools I use,
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-unx&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+```
+Languages: Java, Python, JavaScript, Typescript, HTML/CSS
 
-* **Languages**: Java, Python, JavaScript, Typescript, HTML/CSS
+Frontend: React.js, Redux, Angular, Angular Material, Tailwind CSS, Flutter
 
-* **Frontend**: React.js, Redux, Angular, Angular Material, Tailwind CSS, Flutter
+Backend & Databases: Node.js, Express.js, RESTful API, Mocha, MongoDB, Firebase, PostgreSQL, Elastic Search (ELK), Redis, RabbitMQ
 
-* **Backend & Databases**: Node.js, Express.js, RESTful API, Mocha, MongoDB, Firebase, PostgreSQL, Elastic Search (ELK), Redis, RabbitMQ
+AI & ML: Pandas, Numpy, Sckit-Learn, Scipy, Ploty, Sklearn, Keras, Tensorflow, Diffusion Models, Neural Networks, OpenCV, Deep Learning, Reinforcement Learning, Flask, Streamlit, LLM, llama
 
-* **AI & ML**: Pandas, Numpy, Sckit-Learn, Scipy, Ploty, Sklearn, Keras, Tensorflow, Diffusion Models, Neural Networks, OpenCV, Deep Learning, Reinforcement Learning, Flask, Streamlit, LLM, llama
+DevOps & Tools: Git, Github, Docker, Kubernetes, AWS (S3, EC2, Lambda), Bash Scripting, Figma
 
-* **DevOps & Tools**: Git, Github, Docker, Kubernetes, AWS (S3, EC2, Lambda), Bash Scripting, Figma
+```
 
 
 ## Fun facts about me
