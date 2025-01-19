@@ -1,8 +1,6 @@
 # Hey there, I'm **_Arjun_**! 👋
 
-A **Junior Software Engineer** who loves turning ideas into things people can actually use. 
-
-I spend my time building applications and systems that make life easier, simpler, and sometimes just a little more fun.
+A **Junior Software Engineer** who loves turning ideas into things people can actually use. I spend my time building applications and systems that make life easier, simpler, and sometimes just a little more fun.
 
 ## What keeps me busy?
 
