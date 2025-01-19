@@ -2,9 +2,7 @@
 
 # Hey there, I'm **Arjun**! 👋
 
-## Who am I?
-
-I'm a junior **Software Engineer** who loves turning ideas into things people can actually use. I spend my time building applications and systems that make life easier, simpler, and sometimes just a little more fun.
+A junior **Software Engineer** who loves turning ideas into things people can actually use. I spend my time building applications and systems that make life easier, simpler, and sometimes just a little more fun.
 
 ## What keeps me busy?
 
