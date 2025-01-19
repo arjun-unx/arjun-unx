@@ -41,9 +41,9 @@ Elastic Search (ELK), Redis, RabbitMQ
 ## Let’s connect
 I’d love to hear about what you’re working on or just chat about tech, learning, or anything else that’s interesting.
 
-📫 **Email**: arjunramesh163@gmail.com\
+📫 **Email**: arjunramesh163@gmail.com
 
-🌐 **Portfolio**: https://arjun-ramesh.vercel.app/ \
+🌐 **Portfolio**: https://arjun-ramesh.vercel.app/
 
 💼 **LinkedIn**: https://www.linkedin.com/in/arjunramesh22/
 
