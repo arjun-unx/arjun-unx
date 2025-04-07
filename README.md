@@ -1,6 +1,6 @@
 # Welcome to My Hub! 👋                                                                                                                
 
-A **Junior Software Engineer** who loves turning ideas into things people can actually use. I spend my time building applications and systems that make life easier, simpler, and sometimes just a little more fun.
+I'm a **Junior Software Engineer** who loves turning ideas into things people can actually use. I spend my time building applications and systems that make life easier, simpler, and sometimes just a little more fun.
 
 [![roadmap.sh](https://roadmap.sh/card/wide/64d46e76aa497d7fa51f0ba2?variant=dark)](https://roadmap.sh)
 
